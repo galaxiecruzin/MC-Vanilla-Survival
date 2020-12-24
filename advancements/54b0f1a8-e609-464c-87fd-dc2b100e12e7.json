@@ -524,12 +524,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-12-13 06:12:56 -0500",
+      "minecraft:ghast": "2020-12-20 00:02:58 -0500",
       "minecraft:spider": "2020-12-13 07:08:33 -0500",
       "minecraft:husk": "2020-12-14 00:09:46 -0500",
       "minecraft:zombie": "2020-12-13 23:14:59 -0500",
       "minecraft:drowned": "2020-12-16 01:13:23 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-12-19 22:19:01 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -2085,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2020-12-19 22:06:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2020-12-13 08:01:29 -0500"
@@ -2430,6 +2443,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-12-17 21:30:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-12-19 22:14:36 -0500"
     },
     "done": true
   },
