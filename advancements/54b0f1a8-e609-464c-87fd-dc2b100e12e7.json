@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2020-12-25 17:58:58 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2020-12-12 17:39:26 -0500"
@@ -532,6 +538,7 @@
       "minecraft:skeleton": "2020-12-13 06:12:56 -0500",
       "minecraft:ghast": "2020-12-20 00:02:58 -0500",
       "minecraft:spider": "2020-12-13 07:08:33 -0500",
+      "minecraft:creeper": "2020-12-25 17:45:50 -0500",
       "minecraft:husk": "2020-12-14 00:09:46 -0500",
       "minecraft:zombie": "2020-12-13 23:14:59 -0500",
       "minecraft:drowned": "2020-12-16 01:13:23 -0500"
@@ -1175,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-12-25 17:02:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-12-13 08:29:08 -0500"
@@ -1394,6 +1407,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-12-17 21:19:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-12-25 17:29:53 -0500"
     },
     "done": true
   },
@@ -1618,6 +1637,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2020-12-13 08:01:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2020-12-25 17:58:58 -0500"
     },
     "done": true
   },
@@ -2029,6 +2054,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-12-18 18:00:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2020-12-25 17:58:58 -0500"
     },
     "done": true
   },
