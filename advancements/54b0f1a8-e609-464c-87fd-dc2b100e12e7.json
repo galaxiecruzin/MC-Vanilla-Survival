@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-01-04 21:44:11 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2020-12-17 19:29:27 -0500"
@@ -659,6 +665,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2020-12-13 09:00:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-01-04 21:44:11 -0500"
     },
     "done": true
   },
@@ -1659,6 +1671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-01-04 22:36:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-12-17 22:01:07 -0500"
@@ -1705,6 +1723,7 @@
     "criteria": {
       "cooked_beef": "2020-12-16 23:51:01 -0500",
       "baked_potato": "2020-12-13 23:16:32 -0500",
+      "apple": "2021-01-04 22:32:36 -0500",
       "cooked_cod": "2021-01-03 23:44:23 -0500",
       "bread": "2020-12-13 06:39:21 -0500"
     },
@@ -1950,6 +1969,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2020-12-18 18:37:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-01-04 22:36:33 -0500"
     },
     "done": true
   },
@@ -2298,6 +2323,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-12-12 17:42:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-01-04 21:29:11 -0500"
     },
     "done": true
   },
@@ -2745,6 +2776,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/red.png": "2021-01-04 22:30:58 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2021-01-02 09:59:00 -0500"
@@ -2784,6 +2821,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-12-12 17:35:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-01-04 21:44:11 -0500"
     },
     "done": true
   },
